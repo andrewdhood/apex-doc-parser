@@ -1,0 +1,18 @@
+{
+  "title": "",
+  "sections": [
+    {
+      "name": "ApexPages Namespace",
+      "description": "The ApexPages namespace provides classes used in Visualforce controllers.\nThe following are the classes in the ApexPages namespace.\nIN THIS SECTION:\nAction Class\nYou can use ApexPages.Action to create an action method that you can use in a Visualforce custom controller or controller extension.\nComponent Class\nRepresents a dynamic Visualforce component in Apex.\nNamespace\nApexPages\nUsage\nA method in the Component object is called by and operated on a particular instance of a Component.\n",
+      "subsections": [],
+      "methods": [],
+      "examples": [
+        {
+          "title": "",
+          "code": "public class MyController {\npublic void doSomething() {\n// Method implementation\n}\n}",
+          "explanation": ""
+        }
+      ]
+    }
+  ]
+}
