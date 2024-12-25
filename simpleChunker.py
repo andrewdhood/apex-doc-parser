@@ -114,7 +114,7 @@ def extract_data(file_path):
     return json_data
 
 # Example usage:
-file_path = 'Apex_Reference_Guide_short_pages.pdf'  # Replace with your PDF file path
+file_path = 'apex_reference.pdf'  # Replace with your PDF file path
 json_data = extract_data(file_path)
 
 # Save the extracted data to a JSON file
